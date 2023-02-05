@@ -1,4 +1,4 @@
-# Animal com Programação orientada a objetos
+# Programação orientada a objetos: Animal
 
  Projeto com conceito de herança. 
 
