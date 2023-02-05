@@ -1,4 +1,4 @@
-# JavaPoo-Animal
+# Animal com Programação orientada a objetos
 
  Projeto com conceito de herança. 
 
